@@ -158,3 +158,4 @@ public class korporateTest {
  */
     	assertEquals("6.45",test3.getP(8, 1, 30, 27.5)); 
 	 }
+}
