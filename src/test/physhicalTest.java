@@ -1,4 +1,4 @@
-﻿package JuintTest;
+﻿package test;
 /**
  *импортирование классов из библиотеки junit 
  */
