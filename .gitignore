@@ -3,3 +3,12 @@
 .project
 .settings/
 bin/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
