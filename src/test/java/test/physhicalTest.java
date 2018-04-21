@@ -1,4 +1,4 @@
-﻿package Audio_file;
+﻿package test;
 /**
  *импортирование классов из библиотеки junit 
  */
