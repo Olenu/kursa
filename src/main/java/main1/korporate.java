@@ -10,7 +10,7 @@ import java.awt.EventQueue;
 /**
  * импортируем класс, который рассчитывает объем памяти для юридических лиц
  */
-import Calc.korporateCalc;  
+import main1.korporateCalc;  
 /**
  *Импортируем класс для создания фрейма 
  */
