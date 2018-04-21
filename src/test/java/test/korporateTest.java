@@ -1,11 +1,5 @@
-﻿/**
- * указание принадлежности класса пакету 
- */
 package test;
 
-/**
- *импортирование классов из библиотеки junit 
- */
 import static org.junit.Assert.*; 
 
 /**
@@ -164,4 +158,3 @@ public class korporateTest {
  */
     	assertEquals("6.45",test3.getP(8, 1, 30, 27.5)); 
 	 }
-}
