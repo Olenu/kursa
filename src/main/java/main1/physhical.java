@@ -94,7 +94,6 @@ import javax.swing.SwingConstants;
  * импортируем класс форматированных полей 
  */
 import javax.swing.JFormattedTextField;  
-import main1.physhicalCalc;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
