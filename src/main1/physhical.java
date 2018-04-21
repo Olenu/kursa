@@ -1,4 +1,4 @@
-/**
+﻿/**
  * указываем на то, что класс принадлежит пакету 
  */
 package main1;
@@ -94,6 +94,7 @@ import javax.swing.SwingConstants;
  * импортируем класс форматированных полей 
  */
 import javax.swing.JFormattedTextField;  
+import Calc.physhicalCalc;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 

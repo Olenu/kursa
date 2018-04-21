@@ -13,7 +13,7 @@
     </dependencies>
 
     <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.build.sourceEncoding>Cp1251</project.build.sourceEncoding>
     </properties>
 
     <build>
